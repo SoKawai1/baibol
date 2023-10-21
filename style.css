@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+
+}
+
+html{
+    background-color: #0F0F0F;
+}
+
+header{
+    background-color: #008170;
+    color:white;
+    padding:10px;
+}
+
+header a{
+    color: white;
+    text-decoration: none;
+}
+p img{
+    height: 200px;
+}
+
+main nav{
+    background-color: #005B41;
+}
+main a{
+    color: white;
+    text-decoration: none;
+}
+main{
+   background-color: #232D3F; 
+}
+h1{
+    background-color: #232D3F;
+    color: white;
+}
+
+h2{
+
+    color: white;
+}
+
+.imga{
+    width: 200px;
+    height: 200px;
+    padding-left: 200px;
+}
+.padding_class{
+    padding-left: 200px;
+
+}
+
+main p{
+    color: white;
+}
+
+.bg{
+    background-color: #232D3F;
+}
+
+.discount{
+    padding-left: 20px;
+}
